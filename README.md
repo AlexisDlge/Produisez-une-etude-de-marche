@@ -1,7 +1,7 @@
 # Produisez-une-etude-de-marche
 Projet 9 de la formation de data analyst de OpenClassrooms
 
-**Scénario**
+<img width="614" alt="IMG_Scenario" src="https://github.com/AlexisDlge/Detectez-des-faux-billets/assets/152527939/6c949932-3da9-4faa-a408-3d3da4ec7247">
 
 Vous travaillez chez La poule qui chante, une entreprise française d’agroalimentaire. Elle souhaite se développer à l'international.
 
@@ -45,3 +45,30 @@ Votre manager, Patrick, vous briefe par un e-mail :
 
     Pièce jointe :
       Données New Food Balances (FAO)
+
+<img width="614" alt="IMG_Livrables" src="https://github.com/AlexisDlge/Detectez-des-faux-billets/assets/152527939/86af4a1f-0feb-4235-b2ba-2f685fcaca46">
+
+* un notebook ou fichier R contenant la préparation, le nettoyage et l’analyse exploratoire des données.
+* un notebook ou fichier R contenant le/les clusterings effectués, et les différentes visualisations associées.
+* une présentation du travail réalisé (Powerpoint ou équivalent, maximum 20 slides).
+
+Pour faciliter votre passage devant le jury, déposez sur la plateforme, dans un dossier zip nommé “Titre_du_projet_nom_prénom”, tous les livrables du projet comme suit : Nom_Prénom_n° du livrable_nom du livrable_date de démarrage du projet. Cela donnera : 
+
+* Nom_Prénom_1_preparation_nettoyage_analyse_exploratoire_mmaaaa
+* Nom_Prénom_2_clustering_visualisations_mmaaaa
+* Nom_Prénom_3_presentations_mmaaaa
+
+Par exemple, le premier livrable peut être nommé comme suit : Dupont_Jean_1_preparation_nettoyage_analyse_exploratoire_012023.
+
+<img width="614" alt="IMG_Soutenance" src="https://github.com/AlexisDlge/Detectez-des-faux-billets/assets/152527939/a1a8bf0e-898d-4fa4-808b-091d870eb595">
+
+Pendant la soutenance, l’évaluateur jouera le rôle de Patrick, votre manager à qui vous présentez vos résultats :
+
+* Présentation (15 minutes)
+  - le contexte 
+  - votre démarche 
+  - vos résultats et recommandations
+* Discussion (10 minutes)
+  - Toujours dans le rôle de manager, l’évaluateur vous posera des questions sur votre travail et sur vos choix.
+* Débriefing (5 minutes)
+  - À la fin de la soutenance, l'évaluateur arrêtera de jouer le rôle de Patrick pour vous permettre de débriefer ensemble.
