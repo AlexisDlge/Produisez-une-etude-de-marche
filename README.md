@@ -46,6 +46,9 @@ Votre manager, Patrick, vous briefe par un e-mail :
     Pièce jointe :
       Données New Food Balances (FAO)
 
+**Données :**
+[Données New Food Balances (FAO)](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/parcours-data-analyst/DAN-P9-data.zip)
+
 <img width="614" alt="IMG_Livrables" src="https://github.com/AlexisDlge/Detectez-des-faux-billets/assets/152527939/86af4a1f-0feb-4235-b2ba-2f685fcaca46">
 
 * un notebook ou fichier R contenant la préparation, le nettoyage et l’analyse exploratoire des données.
